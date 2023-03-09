@@ -25,6 +25,7 @@ def fizzbuzz():
         #if not divisible by 3 or 5, print the number
         else:
             print(number)
+            
 #Don't forget to define main
 def main():
     fizzbuzz()
